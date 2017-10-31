@@ -23,7 +23,7 @@ telephone: (801) 626-6540
 copyright:
 
 # API settings
-google_api_key: AIzaSyDIdS24tWolVjdTqHEAcR7zoqbploLea98
+google_api_key:
 
 # Build settings
 markdown: kramdown

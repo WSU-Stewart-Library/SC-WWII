@@ -1,0 +1,61 @@
+/* Custom CSS
+   Rachel Middleton
+*/
+
+/* background colors */
+.about {
+	background-color: #DFF8EB;
+}
+.services {
+	background-color: #011638;
+}
+.portfolio {
+	background-color: #CDCDCD;
+}
+.call-to-action {
+	background-color: #364156;
+}
+footer {
+	background-color: #CDCDCD;
+}
+/* icons */
+.fa-stack > i.text-primary {
+	color: #011638;
+}
+i.fa.text-primary {
+	color: #011638;
+}
+/* footer social icons */
+a > i {
+	color: #011638;
+}
+/* Links */
+a {
+	color: #214E34;
+	font-weight: 500;
+}
+a:hover {
+	color: #20bf63;
+}
+/* hamburger bars */
+i.fa.fa-bars {
+	color: #FFFFFF;
+}
+
+
+
+.text-vertical-center h1 {
+	color: #214E34;
+	text-shadow: 2px 2px #121212;
+	text-transform: uppercase;
+}
+header > div > h3 {
+	color: #121212;
+}
+body {
+	color: #121212 !important;
+}
+
+.call-to-action {
+	text-align: center;
+}
